@@ -1,0 +1,20 @@
+{
+  "name": "mid-autumn-community",
+  "interface": {
+    "displayName": "中秋诗意海报"
+  },
+  "plugins": [
+    {
+      "name": "mid-autumn-poetic-poster",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mid-autumn-poetic-poster"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}
