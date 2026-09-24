@@ -1,0 +1,4 @@
+interface:
+  display_name: "中秋古风诗意海报生成器"
+  short_description: "从简短主题词生成统一风格的中秋竖版海报和书签"
+  default_prompt: "使用 $mid-autumn-poetic-poster，根据我的主题词生成一张中秋古风诗意竖版海报；自动匹配构图、诗词、材质和质量约束。"
