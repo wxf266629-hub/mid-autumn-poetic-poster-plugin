@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mid-autumn-poetic-poster",
+  "version": "0.1.0",
+  "description": "Create coherent Chinese Mid-Autumn poetic posters and bookmarks from short themes.",
+  "author": {
+    "name": "小小小书创作"
+  },
+  "homepage": "https://github.com/wxf266629-hub/mid-autumn-poetic-poster-plugin",
+  "repository": "https://github.com/wxf266629-hub/mid-autumn-poetic-poster-plugin",
+  "license": "MIT",
+  "keywords": ["mid-autumn", "poster", "bookmark", "chinese-ink-wash", "poetry"]
+}
