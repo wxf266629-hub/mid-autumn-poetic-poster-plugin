@@ -1,0 +1,26 @@
+{
+  "name": "mid-autumn-poetic-poster",
+  "version": "0.1.0",
+  "description": "Create coherent Chinese Mid-Autumn poetic posters and bookmarks from short themes.",
+  "author": {
+    "name": "小小小书创作"
+  },
+  "homepage": "https://github.com/wxf266629-hub/mid-autumn-poetic-poster-plugin",
+  "repository": "https://github.com/wxf266629-hub/mid-autumn-poetic-poster-plugin",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "中秋古风诗意海报生成器",
+    "shortDescription": "从主题词生成诗意中秋海报和书签",
+    "longDescription": "支持八个中秋主题、真实诗词核对、无字背景与可编辑文字排版，以及系列和印刷规格。",
+    "developerName": "小小小书创作",
+    "category": "Creativity",
+    "capabilities": ["Write"],
+    "websiteURL": "https://github.com/wxf266629-hub/mid-autumn-poetic-poster-plugin",
+    "defaultPrompt": [
+      "做一张归雁主题的中秋竖版海报",
+      "把桂香做成 50×150mm 书签",
+      "给我八个主题的一套海报提示词"
+    ]
+  }
+}
